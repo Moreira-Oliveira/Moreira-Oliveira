@@ -55,10 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Moreira-Oliveira/Moreira-Oliveira/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Redes Sociais</h3>
 
 ###
