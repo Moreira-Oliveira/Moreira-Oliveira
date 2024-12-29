@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sobre mim:<br><br>Sou graduado em Engenharia da Computação pela Universidade UNIFACS, formado em dezembro de 2023. Tenho foco em engenharia de dados, Big Data, IoT e computação em nuvem, com o objetivo de transformar dados em soluções estratégicas utilizando tecnologias modernas e robustas.<br><br>Atualmente, estou cursando uma especialização em Engenharia de Dados pela Data Science Academy, uma plataforma de ensino a distância que oferece capacitação profissional em áreas relacionadas à ciência de dados.</h3>
+<h3 align="left">Sobre mim:<br><br>Graduação em Engenharia da Computação (UNIFACS) em 2023. Foco em engenharia de dados, Big Data, IoT e computação em nuvem, a fim de transformar dados em soluções estratégicas por meio de tecnologias modernas e robustas.<br><br>Se especializando em Engenharia de Dados pela Data Science Academy.</h3>
 
 ###
 
