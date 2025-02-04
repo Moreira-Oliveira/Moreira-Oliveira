@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sobre mim:<br><br>Graduação em Engenharia da Computação (UNIFACS) em 2023. Foco em engenharia de dados, Big Data, IoT e computação em nuvem, a fim de transformar dados em soluções estratégicas por meio de tecnologias modernas e robustas.<br><br>Se especializando em Engenharia de Dados pela Data Science Academy.</h3>
+<h3 align="left">Sobre mim:<br><br>Graduação em Engenharia da Computação (UNIFACS) em 2023. Foco em engenharia de dados, Big Data, IoT e computação em nuvem, a fim de transformar dados em soluções estratégicas por meio de tecnologias modernas e robustas.<br><br>Concluído a especialização em Engenharia de Dados pela Data Science Academy..</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Cursos (Todas os displomas disponíveis no linkedin)<br><br>💻 2025 - Engenharia de Dados com Airbyte, DBT e SQL <br>💻 2024 - 12 SQL Para Análise de Dados e Data Science <br>💻 2024 - 10 Modelagem, Implementação e Governança de Data Warehouse<br>💻 2024 - 05 Infraestrutura Como Código com Terraform, AWS, Azure e Databricks<br>💻 2023 - 12  Ambientes computacionais e conectividade<br>💻 2023 - 12 Resistência dos materiais e elementos de máquinas<br>💻 2023 - 12 Sistemas de controle e inteligência artificial<br>💻 2022 - 12 Análise de dados e big data<br>💻 2022 - 10 Relações consumeristas na era do consumidor 5.0<br>💻 2022 - 06 Oficinas de programação, jogos e robótica<br>💻 2021 - 01 Big Data Fundamentos 2.0</h3>
+<h3 align="left">Cursos (Todas os displomas disponíveis no linkedin)<br><br>💻 2025 - Armazenamento e Gestão de Dados com Data Lake e Data Lakehouse<br>💻 2025 - PySpark e Apache Kafka Para Processamento de Dados em Batch e Streaming<br>💻 2025 - Engenharia de Dados com Airbyte, DBT e SQL <br>💻 2024 - 12 SQL Para Análise de Dados e Data Science <br>💻 2024 - 10 Modelagem, Implementação e Governança de Data Warehouse<br>💻 2024 - 05 Infraestrutura Como Código com Terraform, AWS, Azure e Databricks<br>💻 2023 - 12  Ambientes computacionais e conectividade<br>💻 2023 - 12 Resistência dos materiais e elementos de máquinas<br>💻 2023 - 12 Sistemas de controle e inteligência artificial<br>💻 2022 - 12 Análise de dados e big data<br>💻 2022 - 10 Relações consumeristas na era do consumidor 5.0<br>💻 2022 - 06 Oficinas de programação, jogos e robótica<br>💻 2021 - 01 Big Data Fundamentos 2.0</h3>
 
 ###
 
