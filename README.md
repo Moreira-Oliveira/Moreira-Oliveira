@@ -56,5 +56,46 @@ Atuo com foco em **engenharia de dados, Big Data, computação em nuvem e analyt
 
 </div>
 
-```text
-🔹 Engenharia de Dados: Analytics Engineering com SQL (Modelagem e transformação de dados) - https://github.com/Moreira-Oliveira/Analytics-Engineering-com-SQL | Transformações de Dados com DBT (Pipeline de transformação e boas práticas DataOps) - https://github.com/Moreira-Oliveira/Transformacoes-de-Dados-com-DBT | DataOps para Automação de Staging (Automação de pipelines de dados) - https://github.com/Moreira-Oliveira/DataOps-Para-Automa-o-de-Staging || 🔹 Streaming: Integração de Dados em Tempo Real com Apache Kafka (Pipeline de ingestão em tempo real) - https://github.com/Moreira-Oliveira/integracao-de-dados-em-tempo-real-com-apache-kafka || 🔹 Data Warehouse: Implementação de Data Warehouse com Docker (DW local com containers) - https://github.com/Moreira-Oliveira/Implementacao-de-um-Data-Warehouse-em-ambiente-local-usando-Docker | Projeto Data Warehouse em Ambiente Local (Arquitetura de DW para análise) - https://github.com/Moreira-Oliveira/Projeto-Data-Warehouse-em-Ambiente-Local | Análise com Dados Fictícios (Simulação analítica com SQL) - https://github.com/Moreira-Oliveira/Analise-com-dados-ficticios || 🔹 IA: Pipeline para IA Generativa no Lakehouse (Databricks) - https://github.com/Moreira-Oliveira/AG-Pipeline-para-IA-Generativa-no-Lakehouse-Databricks | AI SQL Generator (Text-to-SQL com IA) - https://github.com/Moreira-Oliveira/AI-SQL-Query-Generator-Text-to-SQL || 🔹 Cloud: Deploy de Infraestrutura no Azure com Terraform (Infraestrutura como código) - https://github.com/Moreira-Oliveira/Automatizando-o-Deploy-de-Infraestrutura-no-Azure-com-Terraforme || 🔹 Qualidade de Dados: Automação de Testes com DBT (Validação de pipelines) - https://github.com/Moreira-Oliveira/Automacao-de-Testes-de-Modelos-de-Dados-no-DBT
+### 🔹 Analytics Engineering com SQL  
+Modelagem e transformação de dados voltados para análise.  
+🔗 https://github.com/Moreira-Oliveira/Analytics-Engineering-com-SQL  
+
+### 🔹 Transformações de Dados com DBT  
+Pipeline de transformação com boas práticas de DataOps e versionamento.  
+🔗 https://github.com/Moreira-Oliveira/Transformacoes-de-Dados-com-DBT  
+
+### 🔹 Pipeline para IA Generativa no Lakehouse (Databricks)  
+Integração de IA com arquitetura Lakehouse utilizando Databricks.  
+🔗 https://github.com/Moreira-Oliveira/AG-Pipeline-para-IA-Generativa-no-Lakehouse-Databricks  
+
+### 🔹 AI SQL Generator (Text-to-SQL)  
+Aplicação em Python para geração automática de consultas SQL com IA.  
+🔗 https://github.com/Moreira-Oliveira/AI-SQL-Query-Generator-Text-to-SQL  
+
+### 🔹 Deploy de Infraestrutura no Azure com Terraform  
+Provisionamento de infraestrutura em cloud utilizando Terraform (IaC).  
+🔗 https://github.com/Moreira-Oliveira/Automatizando-o-Deploy-de-Infraestrutura-no-Azure-com-Terraforme  
+
+### 🔹 Data Warehouse com Docker  
+Implementação de Data Warehouse em ambiente local utilizando containers.  
+🔗 https://github.com/Moreira-Oliveira/Implementacao-de-um-Data-Warehouse-em-ambiente-local-usando-Docker  
+
+### 🔹 Integração de Dados em Tempo Real com Apache Kafka  
+Pipeline de ingestão de dados em tempo real utilizando Kafka.  
+🔗 https://github.com/Moreira-Oliveira/integracao-de-dados-em-tempo-real-com-apache-kafka  
+
+### 🔹 DataOps para Automação de Staging  
+Automação de pipelines com foco em organização e preparação de dados.  
+🔗 https://github.com/Moreira-Oliveira/DataOps-Para-Automa-o-de-Staging  
+
+### 🔹 Análise com Dados Fictícios  
+Simulação de cenários analíticos utilizando SQL (PL/pgSQL).  
+🔗 https://github.com/Moreira-Oliveira/Analise-com-dados-ficticios  
+
+### 🔹 Automação de Testes de Modelos com DBT  
+Validação e testes automatizados para garantir qualidade dos dados.  
+🔗 https://github.com/Moreira-Oliveira/Automacao-de-Testes-de-Modelos-de-Dados-no-DBT  
+
+### 🔹 Projeto Data Warehouse em Ambiente Local  
+Estrutura completa de Data Warehouse para análise de dados.  
+🔗 https://github.com/Moreira-Oliveira/Projeto-Data-Warehouse-em-Ambiente-Local  
