@@ -1,3 +1,136 @@
+
+
+Iniciar teste gratuito
+
+Compartilhar
+As URLs das estatísticas do GitHub para Moreira-Oliveira podem estar indisponíveis devido a limitações do serviço Vercel ou problemas de tráfego. Vou testar acessibilidade.
+
+pasted_content.txt
+Texto · 4.69 KB
+o codigo completo se precisar:
+
+Lite
+Obrigado por enviar o código completo! Vou analisá-lo agora para identificar por que as imagens não estão aparecendo e farei as correções necessárias. Em instantes te envio o código corrigido.
+Verifiquei que as URLs do GitHub Stats retornam erro 503 por Deployment Paused na Vercel. Preciso buscar instâncias alternativas ou aguardar o serviço normalizar.
+
+Lite
+O problema que você está enfrentando ocorre porque a instância principal do GitHub Readme Stats (github-readme-stats.vercel.app) está temporariamente fora do ar ou atingiu os limites de uso (Erro 503).
+Para corrigir isso, substituí a URL por uma instância alternativa estável que está funcionando perfeitamente. Além disso, aproveitei para fazer alguns ajustes finos no seu código:
+Troca da Instância: Mudei para a github-readme-stats-eight-theta.vercel.app, que carregou suas estatísticas com sucesso nos meus testes.
+Ajuste de Alinhamento: Mantive o align="center" para que os gráficos fiquem centralizados e harmônicos.
+Correção de Link: Notei que no seu e-mail do Outlook faltava o prefixo mailto:, o que impedia o link de abrir o seu gerenciador de e-mails.
+Aqui está o seu código completo e corrigido:
+HTML
+<h2 align="left">Olá, eu me chamo Moreira Oliveira da Ressurreição.</h2>
+
+###
+
+<h3 align="left">Sobre mim:  
+  
+Graduação em Engenharia da Computação (UNIFACS) em 2023. Foco em engenharia de dados, Big Data, IoT e computação em nuvem, a fim de transformar dados em soluções estratégicas por meio de tecnologias modernas e robustas.  
+  
+Concluído a especialização em Engenharia de Dados pela Data Science Academy..</h3>
+
+###
+
+<h3 align="left">Formação Acadêmica (Todas os displomas disponíveis no linkedin)  
+  
+🗞️ Engenheiro da Computação - (2023)  
+🗞️ Tecnico em Edificações - (2016)</h3>
+
+###
+
+<h3 align="left">Cursos (Todas os displomas disponíveis no linkedin)  
+  
+💻 2025 - Cursos de aperfeiçoamento profissional: Governança de Dados  
+💻 2025 - Soft Skills   
+💻 2025 - Formação Engenheiro de Dados 4.0   
+💻 2025 - Armazenamento e Gestão de Dados com Data Lake e Data Lakehouse  
+💻 2025 - PySpark e Apache Kafka Para Processamento de Dados em Batch e Streaming  
+💻 2025 - Engenharia de Dados com Airbyte, DBT e SQL   
+💻 2024 - SQL Para Análise de Dados e Data Science   
+💻 2024 - Modelagem, Implementação e Governança de Data Warehouse  
+💻 2024 - Infraestrutura Como Código com Terraform, AWS, Azure e Databricks  
+💻 2023 - Ambientes computacionais e conectividade  
+💻 2023 - Resistência dos materiais e elementos de máquinas  
+💻 2023 - Sistemas de controle e inteligência artificial  
+💻 2022 - Análise de dados e big data  
+💻 2022 - Relações consumeristas na era do consumidor 5.0  
+💻 2022 - Oficinas de programação, jogos e robótica  
+💻 2021 - Big Data Fundamentos 2.0</h3>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h2 align="left">Status</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moreira-Oliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Moreira-Oliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Redes Sociais</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/moreira-oliveira-da-ressurrei%C3%A7%C3%A3o-128875339/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:moreira-tra@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/moreira_lml/?hl=en" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+Basta copiar o código acima e colar no seu arquivo README.md. As imagens devem aparecer imediatamente!
+pasted_content.txt
+Texto · 4.69 KB
+Ver todos os arquivos nesta tarefa
+Tarefa concluída
+Como foi este resultado?
+Sugestões de acompanhamento
+
+
+
+
+pasted_content.txt
 <h2 align="left">Olá, eu me chamo Moreira Oliveira da Ressurreição.</h2>
 
 ###
