@@ -50,31 +50,11 @@ Atuo com foco em **engenharia de dados, Big Data, computação em nuvem e analyt
 
 ## 🪄 **Tecnologias e Ferramentas**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-### **Principais Tecnologias**
-![Skills](https://skillicons.dev/icons?i=python,sql,aws,azure,docker,terraform,databricks)
-
-### **Linguagens Dominadas**
-![Languages](https://skillicons.dev/icons?i=python,sql)
-
-**🔥 Linguagem principal:** `Python`  
-**📚 Aprendendo atualmente:** `Engenharia de Dados avançada`  
-**⚡ Stack:** `AWS, Azure, Databricks, PySpark, Kafka, SQL`  
-
-</div>
-
----
-
-## 🏰 **Projetos**
-
 <div align="center">
 
 ![Projects](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 </div>
 
-### 🌟 **Pipeline de Dados com PySpark**
 ```text
-✨ Pipeline de dados em batch e streaming
-🔗 https://github.com/Moreira-Oliveira
+🔹 Engenharia de Dados: Analytics Engineering com SQL (Modelagem e transformação de dados) - https://github.com/Moreira-Oliveira/Analytics-Engineering-com-SQL | Transformações de Dados com DBT (Pipeline de transformação e boas práticas DataOps) - https://github.com/Moreira-Oliveira/Transformacoes-de-Dados-com-DBT | DataOps para Automação de Staging (Automação de pipelines de dados) - https://github.com/Moreira-Oliveira/DataOps-Para-Automa-o-de-Staging || 🔹 Streaming: Integração de Dados em Tempo Real com Apache Kafka (Pipeline de ingestão em tempo real) - https://github.com/Moreira-Oliveira/integracao-de-dados-em-tempo-real-com-apache-kafka || 🔹 Data Warehouse: Implementação de Data Warehouse com Docker (DW local com containers) - https://github.com/Moreira-Oliveira/Implementacao-de-um-Data-Warehouse-em-ambiente-local-usando-Docker | Projeto Data Warehouse em Ambiente Local (Arquitetura de DW para análise) - https://github.com/Moreira-Oliveira/Projeto-Data-Warehouse-em-Ambiente-Local | Análise com Dados Fictícios (Simulação analítica com SQL) - https://github.com/Moreira-Oliveira/Analise-com-dados-ficticios || 🔹 IA: Pipeline para IA Generativa no Lakehouse (Databricks) - https://github.com/Moreira-Oliveira/AG-Pipeline-para-IA-Generativa-no-Lakehouse-Databricks | AI SQL Generator (Text-to-SQL com IA) - https://github.com/Moreira-Oliveira/AI-SQL-Query-Generator-Text-to-SQL || 🔹 Cloud: Deploy de Infraestrutura no Azure com Terraform (Infraestrutura como código) - https://github.com/Moreira-Oliveira/Automatizando-o-Deploy-de-Infraestrutura-no-Azure-com-Terraforme || 🔹 Qualidade de Dados: Automação de Testes com DBT (Validação de pipelines) - https://github.com/Moreira-Oliveira/Automacao-de-Testes-de-Modelos-de-Dados-no-DBT
