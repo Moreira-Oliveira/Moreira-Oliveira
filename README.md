@@ -50,6 +50,24 @@ Atuo com foco em **engenharia de dados, Big Data, computação em nuvem e analyt
 
 ## 🪄 **Tecnologias e Ferramentas**
 
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+### **Principais Tecnologias**
+![Skills](https://skillicons.dev/icons?i=python,sql,aws,azure,docker,terraform,databricks)
+
+### **Linguagens Dominadas**
+![Languages](https://skillicons.dev/icons?i=python,sql)
+
+**🔥 Linguagem principal:** `Python`  
+**📚 Aprendendo atualmente:** `Engenharia de Dados avançada`  
+**⚡ Stack:** `AWS, Azure, Databricks, PySpark, Kafka, SQL`  
+
+</div>
+
+---
+
+### **Projetos**
+
 <div align="center">
 
 ![Projects](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
