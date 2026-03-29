@@ -1,17 +1,17 @@
 <div align="center">
 
 # 🧙‍♂️ **Moreira Oliveira da Ressurreição** 
-### *The Code Wizard of Salvador - BA*
+### *O Mago do Código de Salvador - BA*
 
 ![Magical Coding](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0a048c4fbdae.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=28&center=true&vCenter=true&width=800&lines=✨+Welcome+to+my+Magical+Realm!;🔮+Where+Code+Becomes+Magic;⚡+Casting+Spells+with+Data+Engineering;🌟+Currently+Brewing:+Data+Engineering+Skills;🪄+Transforming+Data+into+Value)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=28&center=true&vCenter=true&width=800&lines=✨+Bem-vindo+ao+meu+reino+mágico!;🔮+Onde+código+vira+magia;⚡+Lançando+feitiços+com+Engenharia+de+Dados;🌟+Atualmente+aprendendo:+Engenharia+de+Dados;🪄+Transformando+dados+em+valor)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌟 **The Sorcerer's Tale**
+## 🌟 **A História do Mago**
 
 > *"Transformando dados em decisões inteligentes."*
 
@@ -40,34 +40,34 @@ Especialização concluída em Engenharia de Dados pela Data Science Academy.
 💻 2022 - Big Data  
 💻 2021 - Big Data Fundamentos  
 
-**🏰 Currently stationed at:** Open to opportunities  
-**🔮 Role:** Data Engineer  
-**⚡ Status:** Always learning  
-**🌟 Superpower:** Transformar dados em insights
+**🏰 Atualmente em:** Aberto a oportunidades  
+**🔮 Cargo:** Engenheiro de Dados  
+**⚡ Status:** Sempre aprendendo  
+**🌟 Superpoder:** Transformar dados em insights  
 
 ---
 
 <div align="center">
 
-## 🪄 **Magical Spell Arsenal**
+## 🪄 **Arsenal de Magias**
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
-### **Primary Incantations**
+### **Principais Tecnologias**
 ![Skills](https://skillicons.dev/icons?i=python,sql,aws,azure,docker,terraform,databricks)
 
-### **Ancient Languages Mastered**
+### **Linguagens Dominadas**
 ![Languages](https://skillicons.dev/icons?i=python,sql)
 
-**🔥 Master Spell:** `Python`  
-**📚 Currently Learning:** `Data Engineering avançado`  
-**⚡ Tech Stack Magic:** `AWS, Azure, Databricks, PySpark, Kafka, SQL`
+**🔥 Linguagem principal:** `Python`  
+**📚 Aprendendo atualmente:** `Engenharia de Dados avançada`  
+**⚡ Stack:** `AWS, Azure, Databricks, PySpark, Kafka, SQL`  
 
 </div>
 
 ---
 
-## 🏰 **Enchanted Projects**
+## 🏰 **Projetos Encantados**
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Especialização concluída em Engenharia de Dados pela Data Science Academy.
 
 </div>
 
-### 🌟 **Data Pipeline com PySpark**
+### 🌟 **Pipeline de Dados com PySpark**
 ```text
 ✨ Pipeline de dados em batch e streaming
 🔗 https://github.com/Moreira-Oliveira
