@@ -1,67 +1,23 @@
-# 🌃 Moreira Oliveira da Ressurreição - Welcome to Vice City Code
+<div align="center">
+
+# 🧙‍♂️ **Moreira Oliveira da Ressurreição** 
+### *The Code Wizard of Salvador . BA*
+
+![Magical Coding](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0a048c4fbdae.gif)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+Moreira Oliveira da Ressurreição's+Criminal+Enterprise;Coding+in+Vice+City+Since+Day+One;Ready+to+Steal+Some+Code?" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=28&center=true&vCenter=true&width=800&lines=✨+Welcome+to+my+Magical+Realm!;🔮+Where+Code+Becomes+Magic;⚡+Casting+Spells+with+[Your primaryTech];🌟+Currently+Brewing:+[Your currentLearning];🪄+[Your motto])](https://git.io/typing-svg)
+
 </div>
 
-<div align="center">
-  <img src="https://gitsk-comp2.vercel.app/api/stats?user=Moreira-Oliveira" />
-</div>
+---
 
+## 🌟 **The Sorcerer's Tale**
 
+> *"[Your favoriteQuote]"*
 
-## 🚗 Criminal Stats & Reputation
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/💰_Heists_Completed-∞-32CD32?style=for-the-badge&logo=dollar&logoColor=white&labelColor=000000" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🔫_Wanted_Level-⭐⭐⭐⭐⭐-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/🏢_Territory-Salvador . BA-FF00FF?style=for-the-badge&logo=building&logoColor=white&labelColor=000000" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/👔_Organization-[Your company]-00FFFF?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🕴️ Criminal Profile
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Moreira-Oliveira&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&border_color=ff00ff" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira-Oliveira&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&text_color=ffffff&border_color=ff00ff" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-```python
-class CriminalMastermind:
-    def __init__(self):
-        self.name = "Moreira Oliveira da Ressurreição"
-        self.alias = "Moreira-Oliveira"
-        self.role = "[Your role]"
-        self.location = "Salvador . BA"
-        self.organization = "[Your company]"
-        self.contact = "moreira-tra@hotmail.com"
-        self.hideout = "[Your website]"
-    
-    def get_backstory(self):
-        return """
-        Graduação em Engenharia da Computação (UNIFACS) em 2023. Foco em engenharia de dados, Big Data, IoT e computação em nuvem, a fim de transformar dados em soluções estratégicas por meio de tecnologias modernas e robustas.
+Graduação em Engenharia da Computação (UNIFACS) em 2023. Foco em engenharia de dados, Big Data, IoT e computação em nuvem, a fim de transformar dados em soluções estratégicas por meio de tecnologias modernas e robustas.
 
 Concluído a especialização em Engenharia de Dados pela Data Science Academy..
 Formação Acadêmica (Todas os displomas disponíveis no linkedin)
@@ -87,115 +43,163 @@ Cursos (Todas os displomas disponíveis no linkedin)
 💻 2022 - Relações consumeristas na era do consumidor 5.0
 💻 2022 - Oficinas de programação, jogos e robótica
 💻 2021 - Big Data Fundamentos 2.0
-        """
-    
-    def current_operations(self):
-        return [[Your currentProjects]]
-    
-    def secret_intel(self):
-        return "[Your funFact]"
-    
-    def reputation_status(self):
-        return "LEGENDARY CRIMINAL MASTERMIND"
-```
 
-## 🛠️ Criminal Arsenal & Tools
+**🏰 Currently stationed at:** [Your company]  
+**🔮 Wielding the title of:** [Your role]  
+**⚡ Mystical Status:** [Your currentStatus]  
+**🌟 Superpower:** [Your superpower]
 
-<div align="center">
-  <h3>💻 Digital Weapons</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,java,cs,php,mysql,postgresql,mongodb,sqlite,aws,gcp,azure,docker,terraform,linux,apache,r,pandas,jupyter,vscode)](https://skillicons.dev)&theme=dark" />
-  
-  <h3>🔧 Heist Equipment</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)&theme=dark" />
-  
-  <h3>🏪 Underground Network</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,[![My Skills](https://skillicons.dev/icons?i=nodejs,python,java,cs,php)](https://skillicons.dev)&theme=dark" />
-  
-  <h3>🎮 Gaming & Design</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,java,cs,php,mysql,postgresql,mongodb,sqlite,aws,gcp,azure,docker,terraform,linux,apache,r,pandas,jupyter,vscode)](https://skillicons.dev)blender,photoshop,figma,xd,sketch&theme=dark" />
-</div>
-
-## 🎯 Active Heists & Operations
-
-<div align="center">
-  <h3>🏦 Current Criminal Activities</h3>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎮_Project_Alpha-[Your currentProjects]-FF00FF?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💎_Skill_Mastery-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,java,cs,php,mysql,postgresql,mongodb,sqlite,aws,gcp,azure,docker,terraform,linux,apache,r,pandas,jupyter,vscode)](https://skillicons.dev)-00FFFF?style=for-the-badge&logo=diamond&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moreira-Oliveira&theme=neon-dark&hide_border=true&background=0a0a0a&stroke=ff00ff&ring=00ffff&fire=ff0000&currStreakLabel=ff00ff&sideLabels=ffffff&dates=ffffff" />
-</div>
-
-## 🏆 Criminal Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moreira-Oliveira&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Repositories,Commits,Issues,MultiLanguage,PullRequest,Reviews" />
-</div>
-
-## 📱 Secure Communication Channels
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="mailto:moreira-tra@hotmail.com">
-          <img src="https://img.shields.io/badge/📧_Encrypted_Comms-moreira-tra@hotmail.com-FF00FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000" />
-        </a>
-      </td>
-      <td>
-        <a href="[Your website]">
-          <img src="https://img.shields.io/badge/🌐_Secret_Hideout-[Your website]-00FFFF?style=for-the-badge&logo=tor&logoColor=white&labelColor=000000" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 Criminal Activity Tracker
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moreira-Oliveira&bg_color=0a0a0a&color=ff00ff&line=00ffff&point=ff0000&area=true&hide_border=true&custom_title=Criminal%20Activity%20Graph" />
-</div>
-
-## 🎰 Vice City Intel Drop
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=[Your funFact]&author=Moreira Oliveira da Ressurreição&border=true" />
-</div>
-
-## 🌆 Neon Nights Footer
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=neon&color=gradient&customColorList=24&height=150&section=footer&animation=blinking&fontSize=25&text=Keep+It+Criminal%2C+Keep+It+Cool" />
-  
-  <h3>🚗💨 Thanks for visiting Vice City! Remember: In code we trust, in bugs we debug! 🚗💨</h3>
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=Moreira-Oliveira&color=ff00ff&style=neon&label=Heists+Witnessed" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🎮_Status-Online_in_Vice_City-00FF00?style=neon&logo=gamepad&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
 <div align="center">
-  <h4>🌃 "In a world full of bugs, be the feature." - Moreira Oliveira da Ressurreição 🌃</h4>
+
+## 🪄 **Magical Spell Arsenal**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+### **Primary Incantations**
+[Your skillIcons]
+
+### **Ancient Languages Mastered**
+![Languages](https://skillicons.dev/icons?i=[Your languages])
+
+**🔥 Master Spell:** `[Your primaryLanguage]`  
+**📚 Currently Learning:** `[Your currentLearning]`  
+**⚡ Tech Stack Magic:** `[Your techStack]`
+
+</div>
+
+---
+
+## 🏰 **Enchanted Projects**
+
+<div align="center">
+
+![Projects](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+</div>
+
+### 🌟 **[Your project1Name]**
+```magical
+✨ Spell Description: [Your project1Description]
+🔗 Portal Access: [Your project1Link]
+🎭 Enchantment Level: ⭐⭐⭐⭐⭐
+```
+
+### 🔮 **[Your project2Name]**
+```magical
+✨ Spell Description: [Your project2Description]
+🔗 Portal Access: [Your project2Link]
+🎭 Enchantment Level: ⭐⭐⭐⭐⭐
+```
+
+### ⚡ **[Your project3Name]**
+```magical
+✨ Spell Description: [Your project3Description]
+🔗 Portal Access: [Your project3Link]
+🎭 Enchantment Level: ⭐⭐⭐⭐⭐
+```
+
+---
+
+<div align="center">
+
+## 🏆 **Magical Achievements**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+| Achievement | Description |
+|:---:|:---:|
+| 🏅 **[Your achievement1]** | *First Grand Spell* |
+| 🎖️ **[Your achievement2]** | *Advanced Incantation* |
+| 🏆 **[Your achievement3]** | *Master Wizard Status* |
+
+</div>
+
+---
+
+## 🔮 **Wizard's Progress**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moreira-Oliveira&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9745f5&icon_color=9745f5&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira-Oliveira&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9745f5&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moreira-Oliveira&theme=radical&hide_border=true&background=0d1117&stroke=9745f5&ring=9745f5&fire=ff6b6b&currStreakLabel=9745f5)
+
+</div>
+
+---
+
+## 🎯 **Current Quests**
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════╗
+║            QUEST LOG                     ║
+╠══════════════════════════════════════════╣
+║  🎯 Current Mission: [Your currentGoal]     ║
+║  🚀 Next Adventure: [Your nextGoal]         ║
+║  ⏰ Daily Practice: [Your programmingHours] hours ║ 
+║  🎲 Fun Fact: [Your funFact]                ║
+╚══════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌟 **Magical Statistics**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+| **Spell Category** | **Power Level** |
+|:---:|:---:|
+| **Coding Hours/Day** | `[Your programmingHours] hours` ⚡ |
+| **Magic Elements** | `[Your techStack]` 🔮 |
+| **Spell Accuracy** | `99.9%` 🎯 |
+| **Mana Level** | `INFINITE` ♾️ |
+
+</div>
+
+---
+
+## 🪄 **Summon the Wizard**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+**Ready to collaborate on magical projects?**
+
+[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/https://www.linkedin.com/in/moreira-oliveira-da-ressurrei%C3%A7%C3%A3o-128875339/)
+[![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/[Your twitter])
+[![Website Shield](https://img.shields.io/badge/Portfolio-9745f5?style=for-the-badge&logo=About.me&logoColor=white&labelColor=9745f5)]([Your website])
+[![Email Shield](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:moreira-tra@hotmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 **Magical Footer**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+```
+✨ "May your code compile on the first try and your bugs be as mythical as unicorns!" ✨
+                                    - Moreira Oliveira da Ressurreição, The Code Wizard
+```
+
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+**🔮 End of magical transmission 🔮**
+
 </div>
