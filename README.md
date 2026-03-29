@@ -1,107 +1,18 @@
-<h2 align="left">Olá, eu me chamo Moreira Oliveira da Ressurreição.</h2>
+# 💫 About Me:
+Graduação em Engenharia da Computação (UNIFACS) em 2023. Foco em engenharia de dados, Big Data, IoT e computação em nuvem, a fim de transformar dados em soluções estratégicas por meio de tecnologias modernas e robustas.<br><br>Concluído a especialização em Engenharia de Dados pela Data Science Academy..<br>Formação Acadêmica (Todas os displomas disponíveis no linkedin)<br><br>🗞️ Engenheiro da Computação - (2023)<br>🗞️ Tecnico em Edificações - (2016)<br>Cursos (Todas os displomas disponíveis no linkedin)<br><br>💻 2026 - Microsoft Power BI Para Business Intelligence e Data Science<br>💻 2025 - Cursos de aperfeiçoamento profissional: Governança de Dados<br>💻 2025 - Soft Skills<br>💻 2025 - Formação Engenheiro de Dados 4.0<br>💻 2025 - Armazenamento e Gestão de Dados com Data Lake e Data Lakehouse<br>💻 2025 - PySpark e Apache Kafka Para Processamento de Dados em Batch e Streaming<br>💻 2025 - Engenharia de Dados com Airbyte, DBT e SQL<br>💻 2024 - SQL Para Análise de Dados e Data Science<br>💻 2024 - Modelagem, Implementação e Governança de Data Warehouse<br>💻 2024 - Infraestrutura Como Código com Terraform, AWS, Azure e Databricks<br>💻 2023 - Ambientes computacionais e conectividade<br>💻 2023 - Resistência dos materiais e elementos de máquinas<br>💻 2023 - Sistemas de controle e inteligência artificial<br>💻 2022 - Análise de dados e big data<br>💻 2022 - Relações consumeristas na era do consumidor 5.0<br>💻 2022 - Oficinas de programação, jogos e robótica<br>💻 2021 - Big Data Fundamentos 2.0
 
-###
 
-<h3 align="left">
-Sobre mim:<br><br>
-Graduação em Engenharia da Computação (UNIFACS) em 2023. 
-Foco em engenharia de dados, Big Data, IoT e computação em nuvem, 
-a fim de transformar dados em soluções estratégicas por meio de tecnologias modernas e robustas.<br><br>
-Concluído a especialização em Engenharia de Dados pela Data Science Academy.
-</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/moreira_lml/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moreira-oliveira-da-ressurrei%C3%A7%C3%A3o-128875339/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moreira-tra@hotmail.com) 
 
-###
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Moreira-Oliveira&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Moreira-Oliveira&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira-Oliveira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">
-Formação Acadêmica (Todos os diplomas disponíveis no LinkedIn)<br><br>
-🗞️ Engenheiro da Computação - (2023)<br>
-🗞️ Técnico em Edificações - (2016)
-</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=Moreira-Oliveira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<h3 align="left">
-Cursos (Todos os diplomas disponíveis no LinkedIn)<br><br>
-💻 2025 - Governança de Dados<br>
-💻 2025 - Soft Skills<br>
-💻 2025 - Formação Engenheiro de Dados 4.0<br>
-💻 2025 - Armazenamento e Gestão de Dados com Data Lake e Data Lakehouse<br>
-💻 2025 - PySpark e Apache Kafka Para Processamento de Dados<br>
-💻 2025 - Engenharia de Dados com Airbyte, DBT e SQL<br>
-💻 2024 - SQL Para Análise de Dados e Data Science<br>
-💻 2024 - Modelagem, Implementação e Governança de Data Warehouse<br>
-💻 2024 - Infraestrutura Como Código com Terraform, AWS, Azure e Databricks<br>
-💻 2023 - Ambientes Computacionais e Conectividade<br>
-💻 2023 - Resistência dos Materiais e Elementos de Máquinas<br>
-💻 2023 - Sistemas de Controle e Inteligência Artificial<br>
-💻 2022 - Análise de Dados e Big Data<br>
-💻 2022 - Relações Consumeristas na Era do Consumidor 5.0<br>
-💻 2022 - Oficinas de Programação, Jogos e Robótica<br>
-💻 2021 - Big Data Fundamentos 2.0
-</h3>
-
-###
-
-<h2 align="left">Tecnologias</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-</div>
-
-###
-
-<h2 align="left">Status</h2>
-
-###
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moreira-Oliveira&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1800" 
-    height="150" 
-  />
-  
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Moreira-Oliveira&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" 
-    height="150" 
-  />
-</div>
-
-###
-
-<h3 align="left">Redes Sociais</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/moreira-oliveira-da-ressurrei%C3%A7%C3%A3o-128875339/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-  </a>
-
-  <a href="mailto:moreira-tra@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" />
-  </a>
-
-  <a href="https://www.instagram.com/moreira_lml/?hl=en" target="_blank">
-    <img src="https
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
